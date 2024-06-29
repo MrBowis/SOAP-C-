@@ -1,0 +1,7 @@
+C:\Users\02ale\Desktop\Trabajos\5 semestre\Web Avanzado\P1\SOAP\Calculadora\bin\Calculadora.dll.config
+C:\Users\02ale\Desktop\Trabajos\5 semestre\Web Avanzado\P1\SOAP\Calculadora\bin\Calculadora.dll
+C:\Users\02ale\Desktop\Trabajos\5 semestre\Web Avanzado\P1\SOAP\Calculadora\bin\Calculadora.pdb
+C:\Users\02ale\Desktop\Trabajos\5 semestre\Web Avanzado\P1\SOAP\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+C:\Users\02ale\Desktop\Trabajos\5 semestre\Web Avanzado\P1\SOAP\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\02ale\Desktop\Trabajos\5 semestre\Web Avanzado\P1\SOAP\Calculadora\obj\Debug\Calculadora.dll
+C:\Users\02ale\Desktop\Trabajos\5 semestre\Web Avanzado\P1\SOAP\Calculadora\obj\Debug\Calculadora.pdb

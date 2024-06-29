@@ -1,0 +1,10 @@
+C:\Users\02ale\Desktop\Trabajos\5 semestre\Web Avanzado\P1\SOAP\CalculadoraCliente\obj\Debug\CalculadoraCliente.csproj.AssemblyReference.cache
+C:\Users\02ale\Desktop\Trabajos\5 semestre\Web Avanzado\P1\SOAP\CalculadoraCliente\obj\Debug\CalculadoraCliente.Form1.resources
+C:\Users\02ale\Desktop\Trabajos\5 semestre\Web Avanzado\P1\SOAP\CalculadoraCliente\obj\Debug\CalculadoraCliente.Properties.Resources.resources
+C:\Users\02ale\Desktop\Trabajos\5 semestre\Web Avanzado\P1\SOAP\CalculadoraCliente\obj\Debug\CalculadoraCliente.csproj.GenerateResource.cache
+C:\Users\02ale\Desktop\Trabajos\5 semestre\Web Avanzado\P1\SOAP\CalculadoraCliente\obj\Debug\CalculadoraCliente.csproj.CoreCompileInputs.cache
+C:\Users\02ale\Desktop\Trabajos\5 semestre\Web Avanzado\P1\SOAP\CalculadoraCliente\bin\Debug\CalculadoraCliente.exe.config
+C:\Users\02ale\Desktop\Trabajos\5 semestre\Web Avanzado\P1\SOAP\CalculadoraCliente\bin\Debug\CalculadoraCliente.exe
+C:\Users\02ale\Desktop\Trabajos\5 semestre\Web Avanzado\P1\SOAP\CalculadoraCliente\bin\Debug\CalculadoraCliente.pdb
+C:\Users\02ale\Desktop\Trabajos\5 semestre\Web Avanzado\P1\SOAP\CalculadoraCliente\obj\Debug\CalculadoraCliente.exe
+C:\Users\02ale\Desktop\Trabajos\5 semestre\Web Avanzado\P1\SOAP\CalculadoraCliente\obj\Debug\CalculadoraCliente.pdb
